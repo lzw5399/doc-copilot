@@ -2,7 +2,11 @@
 /.vscode/
 /.idea
 /.cache
-/txt/
 /models/
 /db_storage/
-chroma_db
+
+chroma_db/*
+!chroma_db/.gitkeep
+
+txt/*
+!txt/.gitkeep
