@@ -1,0 +1,15 @@
+langchain>=0.0.161
+# langchain==0.0.142
+transformers==4.27.1
+sentence-transformers
+huggingface_hub
+argparse
+protobuf
+cpm_kernels
+nltk
+icetk
+OpenAI
+chromadb
+spacy
+tiktoken
+python-dotenv

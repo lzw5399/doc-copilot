@@ -1,0 +1,8 @@
+.env
+/.vscode/
+/.idea
+/.cache
+/txt/
+/models/
+/db_storage/
+chroma_db
