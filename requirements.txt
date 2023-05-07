@@ -13,3 +13,4 @@ chromadb
 spacy
 tiktoken
 python-dotenv
+llama-cpp-python
